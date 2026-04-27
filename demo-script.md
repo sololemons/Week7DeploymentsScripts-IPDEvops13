@@ -18,7 +18,7 @@ Nia: Something has failed in the new release, and the system is now detecting th
 
 *The automated rollback fires and returns traffic to the previous environment.*
 
-Nia: The system has recovered automatically and sent traffic back to the safe version in 22 seconds.
+Nia: The system has recovered automatically and sent traffic back to the safe version in 13 seconds.
 
 *Amina confirms the final state on screen.*
 
